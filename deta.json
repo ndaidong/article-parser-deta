@@ -1,0 +1,5 @@
+{
+  "name": "extract-article",
+  "description": "Micro service to extract article data",
+  "runtime": "nodejs14.x"
+}
